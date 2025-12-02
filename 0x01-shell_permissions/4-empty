@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 touch hello
-#a script that creates a new file known as hello
